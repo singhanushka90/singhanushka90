@@ -75,11 +75,6 @@ Agentic AI | Robotics Intelligence
 * Tool-augmented LLMs
 * Memory and reasoning workflows
 
-### Robotics & Intelligent Systems
-
-* Perception → Decision → Action pipelines
-* Real-time system thinking
-* Embedded AI integration (ESP32 exposure)
 
 ### Tools & Frameworks
 
