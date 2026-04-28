@@ -17,7 +17,7 @@ Building intelligent systems powered by **Transformers, Foundation Models, and M
 
 ## About
 
-I am a AI  student focused on **Artificial Intelligence, Deep Learning, and Robotics**, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
+I am a AI  student focused on **Artificial Intelligence, Deep Learning, and AI, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
 
 I approach AI with a **first-principles + systems mindset**, aiming to build models that not only learn, but **reason, adapt, and act in real-world environments**.
 
@@ -27,8 +27,7 @@ I approach AI with a **first-principles + systems mindset**, aiming to build mod
 
 ```
 Machine Learning | Deep Learning | Transformers
-LLMs / SLMs | VLMs | VLA Systems
-Agentic AI | Robotics Intelligence
+LLMs
 ```
 
 ---
@@ -102,8 +101,7 @@ Agentic AI | Robotics Intelligence
 * Implementing and experimenting with **LLMs and efficient fine-tuning techniques**
 * Exploring **multimodal systems (VLMs → VLA)** for real-world intelligence
 * Building **scalable and production-oriented ML pipelines**
-* Developing **agentic AI systems with reasoning, planning, and tool integration**
-* Bridging **AI models with robotics (perception → decision → action systems)**
+
 
 ---
 
