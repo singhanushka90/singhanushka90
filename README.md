@@ -26,8 +26,7 @@ I approach AI with a **first-principles + systems mindset**, aiming to build mod
 ## Core Domains
 
 ```
-Machine Learning | Deep Learning | Transformers
-LLMs
+Machine Learning | Deep Learning | Transformers | LLMs
 ```
 
 ---
