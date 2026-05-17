@@ -39,9 +39,6 @@ Machine Learning | Deep Learning | Transformers | LLMs
 * Data pipelines and feature engineering
 
 ### Deep Learning
-
-* Neural Networks: MLP, CNN, RNN, LSTM
-* Optimization: SGD, Adam
 * Regularization: Dropout, BatchNorm
 * Sequence modeling fundamentals
 
