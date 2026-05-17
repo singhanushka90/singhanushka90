@@ -56,11 +56,6 @@ Machine Learning | Deep Learning | Transformers | LLMs
 * Prompt engineering & in-context learning
 * Retrieval-Augmented Generation (RAG)
 
-### Multimodal AI
-
-* Vision-Language Models (VLMs)
-* Vision-Language-Action (VLA) systems
-* Cross-modal reasoning and embeddings
 
 ### Agentic AI Systems
 
