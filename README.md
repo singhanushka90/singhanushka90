@@ -1,134 +1,184 @@
-<div align="center">Hi, I'm Anushka Singh 👋
+<div align="center">Hi 👋 I'm Anushka Singh
 
 AI & Data Science Student | Aspiring AI Engineer
 
-Building intelligent applications using Machine Learning, Deep Learning, RAG, LLMs, and AI-powered systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Learning+Deep+Learning+and+LLMs;Exploring+RAG+%26+Agentic+AI;Future+AI+Engineer" /></div>---
 
-</div>---
+🚀 About Me
 
-About Me
+class AnushkaSingh:
 
-I am a Computer Science student specializing in Artificial Intelligence and Data Science, passionate about building practical AI applications that solve real-world problems.
+    def __init__(self):
+        self.role = "AI & Data Science Student"
+        self.language = ["Python", "SQL"]
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "LLMs",
+            "RAG",
+            "Agentic AI"
+        ]
 
-My interests lie in Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-powered software systems.
+    def current_focus(self):
+        return [
+            "Building AI Projects",
+            "Learning Transformers",
+            "Exploring System Design",
+            "Improving Problem Solving"
+        ]
 
-I enjoy combining AI with software engineering to create applications that are intelligent, scalable, and user-focused.
+I am passionate about building intelligent systems that combine Artificial Intelligence, Machine Learning, and Software Engineering to solve real-world problems.
+
+Currently focused on developing practical skills in:
+
+- Machine Learning
+- Deep Learning
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Application Development
 
 ---
 
-Current Focus
+🛠️ Tech Stack
 
-- Learning Deep Learning and Neural Networks
-- Exploring Transformer Architectures and LLMs
-- Building RAG-based AI Applications
-- Developing AI-powered Web Applications
-- Improving Software Engineering and System Design Skills
+Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sql" />
+</p>AI / Machine Learning
 
-Technical Skills
-
-Programming
-
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript (Basics)
-
-Data Science & Machine Learning
-
-- NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>- NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
-- Data Cleaning & Analysis
+- Scikit-Learn
+- LangChain
+- Hugging Face
+- ChromaDB
+
+---
+
+🤖 AI Specialization
+
+Machine Learning
+
+- Data Cleaning
 - Feature Engineering
 - Model Evaluation
+- Regression & Classification
 
-AI & Generative AI
+Deep Learning
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- Neural Networks
+- CNN Fundamentals
+- Training & Optimization
+- Model Evaluation
+
+Generative AI
+
+- LLM Applications
 - Prompt Engineering
 - Embeddings
 - Vector Databases
-- AI Chatbots
+- Retrieval-Augmented Generation (RAG)
 
-Frameworks & Tools
+Agentic AI
 
-- Streamlit
 - LangChain
-- ChromaDB
-- Hugging Face
-- Git & GitHub
-- Jupyter Notebook
+- AI Workflows
+- Conversational Memory
+- Multi-Step Reasoning
 
 ---
 
-Featured Projects
+📂 Featured Projects
 
 🩺 MedRAG-AI
 
-AI-powered Medical Report Analysis using Hybrid RAG, ChromaDB, and Groq.
+AI-powered Medical Report Analyzer using:
+
+- LangChain
+- ChromaDB
+- Hybrid Retrieval
+- Groq LLM
+- Streamlit
+
+---
 
 📚 OCR Study Notes AI
 
-Multimodal AI Study Assistant capable of OCR extraction, AI summarization, flashcard generation, and question answering.
+Multimodal AI Study Assistant featuring:
 
-🤖 Company Policy Assistant
-
-RAG-based chatbot that answers company-related questions using Hybrid Search and conversational memory.
-
-🎵 AI Playlist Application
-
-Music recommendation and playlist management application built using Python and modern web technologies.
+- OCR Extraction
+- AI Summarization
+- Flashcards
+- Quiz Generation
+- RAG-based Q&A
 
 ---
 
-Learning Journey
+🏢 Company Policy Assistant
 
-Currently exploring:
+Enterprise-style RAG chatbot with:
+
+- Hybrid Search
+- ChromaDB
+- Conversational Memory
+- AI-powered Retrieval
+
+---
+
+📈 Current Learning Roadmap
+
+Python            ██████████ 100%
+Data Science      █████████░ 90%
+Machine Learning  ████████░░ 80%
+Deep Learning     ██████░░░░ 60%
+LLMs & RAG        ████████░░ 80%
+System Design     ███░░░░░░░ 30%
+
+---
+
+🎯 Career Goal
+
+My goal is to become an AI Engineer focused on building intelligent systems powered by:
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Agentic AI
+- Multimodal Applications
+
+I enjoy learning by building real-world projects and continuously improving my understanding of modern AI systems.
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=singhanushka90&show_icons=true&theme=tokyonight"/><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=singhanushka90&theme=tokyonight"/></div>---
+
+🌱 Currently Learning
 
 - Deep Learning
-- Transformer Models
+- Transformers
 - LangGraph
-- Agentic AI Systems
-- Multimodal AI
-- AI System Design
+- Agentic AI
+- System Design
+- Production AI Systems
 
 ---
 
-Career Goal
+📫 Connect With Me
 
-My goal is to become an AI Engineer who builds intelligent systems that combine Machine Learning, LLMs, and software engineering to solve meaningful real-world problems.
+<p><a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a><a href="https://github.com/singhanushka90">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a></p>---
 
-I am particularly interested in:
+<div align="center">💡 Learning AI by Building Real Projects
 
-- Applied AI
-- Generative AI
-- Intelligent Agents
-- AI Product Development
-- Production-Ready AI Systems
-
----
-
-GitHub Stats
-
-- Building AI Projects Consistently
-- Learning in Public
-- Exploring Modern AI Technologies
-- Contributing to Open Source in the Future
-
----
-
-Connect With Me
-
-- LinkedIn: Add your profile link
-- GitHub: github.com/singhanushka90
-
----
-
-<div align="center">"Learning AI by building real-world projects."
+⭐ Always curious. Always learning. Always building.
 
 </div>
