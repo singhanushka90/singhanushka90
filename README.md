@@ -1,134 +1,134 @@
-<div align="center">
+<div align="center">Hi, I'm Anushka Singh 👋
 
-<div align="center">
+AI & Data Science Student | Aspiring AI Engineer
 
+Building intelligent applications using Machine Learning, Deep Learning, RAG, LLMs, and AI-powered systems.
 
-### AI  Engineer (Student)
+</div>---
+
+About Me
+
+I am a Computer Science student specializing in Artificial Intelligence and Data Science, passionate about building practical AI applications that solve real-world problems.
+
+My interests lie in Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-powered software systems.
+
+I enjoy combining AI with software engineering to create applications that are intelligent, scalable, and user-focused.
+
+---
+
+Current Focus
+
+- Learning Deep Learning and Neural Networks
+- Exploring Transformer Architectures and LLMs
+- Building RAG-based AI Applications
+- Developing AI-powered Web Applications
+- Improving Software Engineering and System Design Skills
+
+---
+
+Technical Skills
+
+Programming
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+Data Science & Machine Learning
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data Cleaning & Analysis
+- Feature Engineering
+- Model Evaluation
+
+AI & Generative AI
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+- AI Chatbots
+
+Frameworks & Tools
+
+- Streamlit
+- LangChain
+- ChromaDB
+- Hugging Face
+- Git & GitHub
+- Jupyter Notebook
+
+---
+
+Featured Projects
+
+🩺 MedRAG-AI
+
+AI-powered Medical Report Analysis using Hybrid RAG, ChromaDB, and Groq.
+
+📚 OCR Study Notes AI
+
+Multimodal AI Study Assistant capable of OCR extraction, AI summarization, flashcard generation, and question answering.
+
+🤖 Company Policy Assistant
+
+RAG-based chatbot that answers company-related questions using Hybrid Search and conversational memory.
+
+🎵 AI Playlist Application
+
+Music recommendation and playlist management application built using Python and modern web technologies.
+
+---
+
+Learning Journey
+
+Currently exploring:
+
+- Deep Learning
+- Transformer Models
+- LangGraph
+- Agentic AI Systems
+- Multimodal AI
+- AI System Design
+
+---
+
+Career Goal
+
+My goal is to become an AI Engineer who builds intelligent systems that combine Machine Learning, LLMs, and software engineering to solve meaningful real-world problems.
+
+I am particularly interested in:
+
+- Applied AI
+- Generative AI
+- Intelligent Agents
+- AI Product Development
+- Production-Ready AI Systems
+
+---
+
+GitHub Stats
+
+- Building AI Projects Consistently
+- Learning in Public
+- Exploring Modern AI Technologies
+- Contributing to Open Source in the Future
+
+---
+
+Connect With Me
+
+- LinkedIn: Add your profile link
+- GitHub: github.com/singhanushka90
+
+---
+
+<div align="center">"Learning AI by building real-world projects."
 
 </div>
-
-Building intelligent systems powered by **Transformers, Foundation Models, and Multimodal AI**
-
-
-</div>
-
----
-
-## About
-
-I am a AI  student focused on **Artificial Intelligence, Deep Learning, and AI, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
-
-I approach AI with a **first-principles + systems mindset**, aiming to build models that not only learn, but **reason, adapt, and act in real-world environments**.
-
----
-
-## Core Domains
-
-```
-Machine Learning | Deep Learning | Transformers | LLMs
-```
-
----
-
-## Technical Expertise
-
-### Machine Learning
-
-* Supervised & Unsupervised Learning
-* Model evaluation, generalization, bias-variance tradeoff
-* Data pipelines and feature engineering
-
-### Deep Learning
-* Regularization: Dropout, BatchNorm
-* Sequence modeling fundamentals
-
-### Transformers & Architectures
-
-* Self-Attention (first-principles understanding)
-* Encoder–Decoder systems
-* Positional encoding & contextual embeddings
-* Scaling and efficiency considerations
-
-### Foundation Models
-
-* Large Language Models (LLMs)
-* Small Language Models (SLMs)
-* Prompt engineering & in-context learning
-* Retrieval-Augmented Generation (RAG)
-
-
-### Agentic AI Systems
-
-* LangChain ecosystem
-* Multi-agent systems (AutoGen, CrewAI)
-* Tool-augmented LLMs
-* Memory and reasoning workflows
-
-
-### Tools & Frameworks
-
-* TensorFlow, PyTorch (learning + implementation level)
-* Hugging Face Transformers
-* LangChain ecosystem
-* NumPy, Pandas
-* Jupyter Notebook (experimentation & prototyping)
-* Git & GitHub (version control for ML systems)
-
----
-
-## What Differentiates Me
-
-* Strong focus on **first-principles understanding**
-* Deep alignment with **modern AI (Transformers + Foundation Models)**
-* Ability to think in terms of **end-to-end intelligent systems**
-* High execution intensity and rapid learning capability
-
----
-
-## Current Focus
-
-* Advancing practical understanding of **Transformer architectures and attention mechanisms**
-* Implementing and experimenting with **LLMs and efficient fine-tuning techniques**
-* Exploring **multimodal systems (VLMs → VLA)** for real-world intelligence
-* Building **scalable and production-oriented ML pipelines**
-
-
----
-
-## Career Direction
-
-I am targeting roles as an **AI Engineer / Machine Learning Engineer** focused on building **state-of-the-art intelligent systems at scale**.
-
-My goal is to contribute to:
-
-* Advancing **Transformer architectures and foundation models** beyond standard implementations
-* Engineering **high-performance, production-grade ML systems**
-* Pushing the boundaries of **multimodal intelligence (LLMs, VLMs, VLA systems)**
-* Developing **autonomous AI systems capable of reasoning, planning, and real-world interaction**
-
-I aim to work with **high-caliber teams operating at the frontier of AI**, where expectations are rigorous, systems are built for scale, and innovation is driven by both **deep technical understanding and execution excellence**.
-
-Long-term, I am focused on becoming a **top-tier AI engineer contributing to cutting-edge research and building transformative AI systems**.
-
----
-
-<div align="center">
-
-### "Building systems that learn, reason, and act."
-
-</div>
-
-<!--
-**singhanushka90/singhanushka90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
