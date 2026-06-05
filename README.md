@@ -263,7 +263,7 @@ FastAPI • LangChain • ChromaDB • LLMs
 
 ---
 
-# 🎯 Career 
+# 🎯 Career Goals
 
 My goal is to become an AI Engineer focused on building:
 
