@@ -289,7 +289,7 @@ I enjoy learning by building real-world projects and continuously improving my u
 
 ---
 
-# 🌱 Currently 
+# 🌱 Currently Learning 
 
 - Deep Learning
 - Transformers
