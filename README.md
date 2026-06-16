@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=🏏%20IPL%20Win%20Probability%20Predictor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20FastAPI%20|%20Python&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Hi%20👋,%20I'm%20Anushka%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20|%20Machine%20Learning%20|%20FastAPI%20|%20Generative%20AI&descAlignY=58"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Powered+IPL+Win+Probability+Predictor;Built+Using+FastAPI+%7C+Scikit-Learn+%7C+Python;Real-Time+Prediction+REST+API"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;FastAPI+Developer;Generative+AI+Learner;Building+Production+Ready+AI+Applications"/>
 </p>
 
 <p align="center">
@@ -16,240 +16,132 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-# 🏏 IPL Win Probability Predictor
+# 👩‍💻 About Me
 
-A Machine Learning based REST API that predicts the winning probability of an IPL team during a live match using the current match situation.
+🎓 B.Tech CSE (AI & Data Science)
+
+🤖 Aspiring AI Engineer passionate about building real-world AI applications.
+
+🌱 Currently learning
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- LangChain
+- FastAPI
+- React
+- Docker
+- AWS
+
+💡 Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- AI Agents
 
 ---
 
-## 🎥 Project Demo
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img width="850" src="YOUR_DEMO_GIF_LINK_HERE"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,mongodb,mysql,git,github,vscode,docker,aws"/>
 
 </p>
 
----
+### AI / ML
 
-# ✨ Features
-
-- 🏏 Live IPL Win Probability Prediction
-- 🤖 Machine Learning Model
-- ⚡ FastAPI REST API
-- 📊 Probability Prediction
-- 📖 Interactive Swagger Documentation
-- 🧹 Data Cleaning
-- 📈 Feature Engineering
-- 🚀 Fast Prediction
-- 🎯 Easy API Integration
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- LangChain
+- Hugging Face
+- FAISS
 
 ---
 
-# 🛠 Tech Stack
+# 📂 Featured Projects
 
-<p align="center">
+### 🤖 AI RAG Chatbot
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode"/>
-
-</p>
-
-| Technology | Description |
-|------------|-------------|
-| Python | Programming Language |
-| FastAPI | REST API Framework |
-| Scikit-Learn | Machine Learning |
-| Pandas | Data Analysis |
-| NumPy | Numerical Computing |
-| Joblib | Model Serialization |
+Chat with PDF documents using LangChain, FastAPI and Vector Database.
 
 ---
 
-# 📂 Project Structure
+### 💼 Employee Burnout Prediction
 
-```text
-IPL-Win-Probability-Predictor
-│
-├── main.py
-├── model.pkl
-├── requirements.txt
-├── notebook.ipynb
-├── dataset.csv
-├── README.md
-└── assets
+Machine Learning model to predict employee burnout using FastAPI.
+
+---
+
+### ❤️ Heart Disease Prediction
+
+Healthcare AI model using Machine Learning.
+
+---
+
+### 🌍 Language Detection API
+
+FastAPI API for language prediction.
+
+---
+
+### 🎵 Music Playlist Web App
+
+Flask based playlist manager with Spotify integration.
+
+---
+
+### 🏏 IPL Win Probability Predictor
+
+Predicts IPL winning probability using Machine Learning.
+
+---
+
+# 📈 Learning Roadmap
+
 ```
-
----
-
-# 📊 Machine Learning Workflow
-
-```text
-Dataset
+Python
    │
    ▼
-Data Cleaning
+Machine Learning
    │
    ▼
-Feature Engineering
+Deep Learning
    │
    ▼
-Data Preprocessing
+NLP
    │
    ▼
-Train-Test Split
+LLMs
    │
    ▼
-Machine Learning Model
+LangChain
    │
    ▼
-Prediction
+RAG
    │
    ▼
-FastAPI REST API
+AI Agents
+   │
+   ▼
+Cloud Deployment
 ```
-
----
-
-# 🏗 Project Architecture
-
-```text
-                User
-                  │
-                  ▼
-        FastAPI REST API
-                  │
-                  ▼
-      Feature Engineering
-                  │
-                  ▼
-      Trained ML Model
-                  │
-                  ▼
- Win & Lose Probability
-                  │
-                  ▼
-          JSON Response
-```
-
----
-
-# ⚙ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/IPL-Win-Probability-Predictor.git
-```
-
-## Move to Project Folder
-
-```bash
-cd IPL-Win-Probability-Predictor
-```
-
-## Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-## Activate Environment
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / Mac
-
-```bash
-source venv/bin/activate
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run FastAPI
-
-```bash
-uvicorn main:app --reload
-```
-
----
-
-# 📡 API Endpoint
-
-### POST
-
-```
-/predict
-```
-
----
-
-# 📥 Sample Request
-
-```json
-{
-  "batting_team":"Mumbai Indians",
-  "bowling_team":"Chennai Super Kings",
-  "city":"Mumbai",
-  "runs_left":80,
-  "balls_left":60,
-  "wickets":6,
-  "total_runs_x":180
-}
-```
-
----
-
-# 📤 Sample Response
-
-```json
-{
-   "Win Probability":82.63,
-   "Lose Probability":17.37
-}
-```
-
----
-
-# 📖 API Documentation
-
-Swagger UI
-
-```
-http://127.0.0.1:8000/docs
-```
-
-ReDoc
-
-```
-http://127.0.0.1:8000/redoc
-```
-
----
-
-# 🚀 Future Improvements
-
-- 🎨 React Frontend
-- 🐳 Docker Support
-- ☁ AWS Deployment
-- 📱 Mobile Responsive UI
-- 🔐 User Authentication
-- 📊 Live IPL Match Data
-- 📈 Analytics Dashboard
-- 🤖 AI Match Insights
 
 ---
 
@@ -285,37 +177,40 @@ http://127.0.0.1:8000/redoc
 
 ---
 
-# 👩‍💻 Author
+# 📜 Certifications
 
-## **Anushka Singh**
-
-🎓 B.Tech CSE (AI & Data Science)
-
-🤖 AI Engineer | Machine Learning | FastAPI | Generative AI
+- ✅ Tata Virtual Internship
+- ✅ Generative AI Course
+- ✅ AI & Machine Learning Projects
+- ✅ FastAPI Development
 
 ---
 
-# 🌐 Connect with Me
+# 🌍 Connect with Me
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+# 💬 Quote
 
-⭐ If you like this project, don't forget to Star the Repository ⭐
+> *"Building AI solutions that solve real-world problems, one project at a time."*
 
-</p>
+---
 
 <p align="center">
 
