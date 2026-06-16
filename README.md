@@ -1,56 +1,56 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
 <h3 align="center">
-🤖 Aspiring AI Engineer • Machine Learning • Generative AI • FastAPI • React
+🤖 Aspiring AI Engineer | Machine Learning | Generative AI | FastAPI | React Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+AI+Applications...;Machine+Learning+Engineer+in+Progress;FastAPI+%7C+React+%7C+LangChain+%7C+RAG;Always+Learning+🚀"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Building+AI+Applications;Machine+Learning+%7C+FastAPI+%7C+React;Learning+LLMs+%7C+RAG+%7C+AI+Agents;Future+AI+Engineer+🚀" />
 </p>
 
 ---
 
-<img align="right" width="320" src="YOUR_CHIBI_IMAGE_LINK"/>
+<p align="center">
+<img width="300" src="YOUR_CHIBI_IMAGE_LINK">
+</p>
 
-# 💜 About Me
+# 🌸 About Me
 
-🎓 B.Tech CSE (AI & Data Science)
+🎓 **B.Tech CSE (AI & Data Science)**
 
-🤖 Passionate about Artificial Intelligence
+🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI.
 
-💡 Love solving real-world problems using AI
+💜 I enjoy building AI applications that solve real-world problems.
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
-- Machine Learning
-- Deep Learning
-- NLP
-- LangChain
-- RAG
-- FastAPI
-- React
-- Docker
-- AWS
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 💬 Large Language Models (LLMs)
+- 📚 LangChain
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- ⚛️ React
+- 🐳 Docker
+- ☁️ AWS
 
-🎯 Dream
+🎯 **Career Goal**
 
-Become an AI Engineer building production-ready AI systems.
+Become a Software Engineer specializing in Artificial Intelligence and build production-ready AI applications used by millions of people.
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,mongodb,mysql,git,github,vscode,docker,aws"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,flask,mongodb,mysql,git,github,vscode,docker,aws"/>
 
 </p>
 
-### AI & ML
+### 🤖 AI / Machine Learning
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
@@ -60,54 +60,64 @@ Become an AI Engineer building production-ready AI systems.
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🚀 AI Projects
+# 🚀 Featured AI Projects
 
-🤖 RAG Chatbot
+🤖 **RAG Chatbot using LangChain + FastAPI**
 
-📄 PDF Question Answering
+📄 **PDF Question Answering Chatbot**
 
-💼 Employee Burnout Prediction
+💼 **Employee Burnout Prediction**
 
-❤️ Heart Disease Prediction
+❤️ **Heart Disease Prediction**
 
-🌍 Language Detection API
+🌍 **Language Detection API**
 
-🎵 Music Playlist Web App
+🎵 **Music Playlist Web App**
 
-🏏 IPL Win Probability Predictor
+🏏 **IPL Win Probability Predictor**
 
 ---
 
-# 📈 AI Learning Roadmap
+# 📚 Learning Roadmap
 
 ```text
 Python
    │
+   ▼
 Machine Learning
    │
+   ▼
 Deep Learning
    │
-NLP
+   ▼
+Natural Language Processing
    │
-LLMs
+   ▼
+Large Language Models
    │
+   ▼
 LangChain
    │
-RAG
+   ▼
+Retrieval-Augmented Generation
    │
+   ▼
 AI Agents
    │
-Cloud Deployment
+   ▼
+Cloud Deployment (AWS)
 ```
 
 ---
@@ -144,11 +154,11 @@ Cloud Deployment
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -160,23 +170,21 @@ Cloud Deployment
 
 🏅 Generative AI
 
-🏅 FastAPI
+🏅 FastAPI Development
 
 🏅 Machine Learning
 
 ---
 
-# 🌸 Fun Facts
+# 🎨 Hobbies
 
 🎨 Painting
 
-🎵 Music Lover
+🎵 Listening to Music
 
 🚗 Road Trips
 
 🍳 Cooking
-
-💜 AI Research
 
 ---
 
@@ -185,23 +193,23 @@ Cloud Deployment
 <p align="center">
 
 <a href="https://github.com/singhanushka90">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anushka-singh-5b6874353">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:anushkas28940@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-✨ "Building AI that makes a difference."
+💜 *"Learning today, Building the AI of tomorrow."* 💜
 
-</h3>
+</h2>
