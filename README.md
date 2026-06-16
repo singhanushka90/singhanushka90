@@ -1,40 +1,46 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
 <h3 align="center">
-🤖 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI | FastAPI Developer
+🤖 Aspiring AI Engineer • Machine Learning • Generative AI • FastAPI • React
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+that+Solves+Real+World+Problems;Machine+Learning+%7C+FastAPI+%7C+React;Learning+LLMs+%7C+RAG+%7C+AI+Agents;Future+AI+Engineer+🚀"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+AI+Applications...;Machine+Learning+Engineer+in+Progress;FastAPI+%7C+React+%7C+LangChain+%7C+RAG;Always+Learning+🚀"/>
+
 </p>
 
 ---
 
-## 🌸 About Me
+<img align="right" width="320" src="YOUR_CHIBI_IMAGE_LINK"/>
 
-🎓 **B.Tech CSE (AI & Data Science)**
+# 💜 About Me
 
-💙 Passionate about Artificial Intelligence, Machine Learning and Generative AI.
+🎓 B.Tech CSE (AI & Data Science)
 
-🌱 Currently Learning
+🤖 Passionate about Artificial Intelligence
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 LLMs
-- 📚 LangChain
-- 🔍 RAG
-- ⚡ FastAPI
-- ⚛️ React
-- 🐳 Docker
-- ☁️ AWS
+💡 Love solving real-world problems using AI
 
-🎯 **Goal**
+🌱 Currently learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- LangChain
+- RAG
+- FastAPI
+- React
+- Docker
+- AWS
+
+🎯 Dream
 
 Become an AI Engineer building production-ready AI systems.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -42,25 +48,33 @@ Become an AI Engineer building production-ready AI systems.
 
 </p>
 
-### 🤖 AI / ML
+### AI & ML
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- LangChain
-- Hugging Face
-- FAISS
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 AI Projects
 
-🤖 AI RAG Chatbot
+🤖 RAG Chatbot
 
-📄 PDF Chatbot
+📄 PDF Question Answering
 
 💼 Employee Burnout Prediction
 
@@ -74,33 +88,25 @@ Become an AI Engineer building production-ready AI systems.
 
 ---
 
-# 📚 Current Learning Journey
+# 📈 AI Learning Roadmap
 
 ```text
 Python
    │
-   ▼
 Machine Learning
    │
-   ▼
 Deep Learning
    │
-   ▼
 NLP
    │
-   ▼
 LLMs
    │
-   ▼
 LangChain
    │
-   ▼
 RAG
    │
-   ▼
 AI Agents
    │
-   ▼
 Cloud Deployment
 ```
 
@@ -142,7 +148,7 @@ Cloud Deployment
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&column=4&margin-w=15"/>
 
 </p>
 
@@ -150,13 +156,27 @@ Cloud Deployment
 
 # 📜 Certifications
 
-✅ Tata Virtual Internship
+🏅 Tata Virtual Internship
 
-✅ Generative AI
+🏅 Generative AI
 
-✅ Machine Learning
+🏅 FastAPI
 
-✅ FastAPI Development
+🏅 Machine Learning
+
+---
+
+# 🌸 Fun Facts
+
+🎨 Painting
+
+🎵 Music Lover
+
+🚗 Road Trips
+
+🍳 Cooking
+
+💜 AI Research
 
 ---
 
@@ -168,7 +188,7 @@ Cloud Deployment
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/anushka-singh-5b6874353">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -180,20 +200,8 @@ Cloud Deployment
 
 ---
 
-## 🌸 Fun Facts
-
-🎨 I love Painting
-
-🎵 Music is my all-time favorite
-
-🚗 I enjoy Road Trips
-
-🍳 I love Cooking
-
----
-
 <h3 align="center">
 
-✨ *"Learning today, Building the AI of tomorrow."* ✨
+✨ "Building AI that makes a difference."
 
 </h3>
