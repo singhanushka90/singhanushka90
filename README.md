@@ -1,127 +1,178 @@
-# Hi there 👋 I'm Anushka Singh
+<h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
-### 🚀 Aspiring AI Engineer | Machine Learning | Generative AI | FastAPI
+<h3 align="center">
+🤖 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI | FastAPI Developer
+</h3>
 
-I'm a B.Tech CSE (AI & Data Science) student passionate about building real-world AI applications. I enjoy working on Machine Learning, LLMs, RAG systems, FastAPI, and React while continuously learning new technologies.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CSE (AI & Data Science)
-- 🤖 Aspiring AI Engineer
-- 🌱 Currently Learning:
-  - LangChain
-  - RAG
-  - FastAPI
-  - React
-  - Docker
-  - AWS
-- 💼 Looking for AI/ML Internship Opportunities
-- 🎯 Goal: Become an AI Engineer at a top product company
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,mongodb,mysql,git,github,vscode,docker,aws,tensorflow"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+that+Solves+Real+World+Problems;Machine+Learning+%7C+FastAPI+%7C+React;Learning+LLMs+%7C+RAG+%7C+AI+Agents;Future+AI+Engineer+🚀"/>
 </p>
 
-**AI & ML:**  
-NumPy • Pandas • Matplotlib • Scikit-Learn • TensorFlow • LangChain • Hugging Face • FAISS
+---
+
+## 🌸 About Me
+
+🎓 **B.Tech CSE (AI & Data Science)**
+
+💙 Passionate about Artificial Intelligence, Machine Learning and Generative AI.
+
+🌱 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 LLMs
+- 📚 LangChain
+- 🔍 RAG
+- ⚡ FastAPI
+- ⚛️ React
+- 🐳 Docker
+- ☁️ AWS
+
+🎯 **Goal**
+
+Become an AI Engineer building production-ready AI systems.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-- 🤖 RAG Chatbot using LangChain + FastAPI
-- ❤️ Heart Disease Prediction
-- 💼 Employee Burnout Prediction
-- 🌍 Language Detection API
-- 🎵 Music Playlist Web App
-- 🏏 IPL Win Probability Predictor
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,mongodb,mysql,git,github,vscode,docker,aws"/>
+
+</p>
+
+### 🤖 AI / ML
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- LangChain
+- Hugging Face
+- FAISS
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
+
+🤖 AI RAG Chatbot
+
+📄 PDF Chatbot
+
+💼 Employee Burnout Prediction
+
+❤️ Heart Disease Prediction
+
+🌍 Language Detection API
+
+🎵 Music Playlist Web App
+
+🏏 IPL Win Probability Predictor
+
+---
+
+# 📚 Current Learning Journey
 
 ```text
 Python
-   ↓
+   │
+   ▼
 Machine Learning
-   ↓
+   │
+   ▼
 Deep Learning
-   ↓
+   │
+   ▼
 NLP
-   ↓
+   │
+   ▼
 LLMs
-   ↓
+   │
+   ▼
 LangChain
-   ↓
+   │
+   ▼
 RAG
-   ↓
+   │
+   ▼
 AI Agents
-   ↓
+   │
+   ▼
 Cloud Deployment
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhanushka90&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanushka90&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=singhanushka90&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhanushka90&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📜 Certifications
+# 🏆 GitHub Trophies
 
-- Tata Virtual Internship
-- Generative AI
-- Machine Learning Projects
-- FastAPI Development
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📜 Certifications
 
-<p align="left">
+✅ Tata Virtual Internship
+
+✅ Generative AI
+
+✅ Machine Learning
+
+✅ FastAPI Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/singhanushka90">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anushkas28940@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -129,4 +180,20 @@ Cloud Deployment
 
 ---
 
-> *"Building AI solutions that solve real-world problems."*
+## 🌸 Fun Facts
+
+🎨 I love Painting
+
+🎵 Music is my all-time favorite
+
+🚗 I enjoy Road Trips
+
+🍳 I love Cooking
+
+---
+
+<h3 align="center">
+
+✨ *"Learning today, Building the AI of tomorrow."* ✨
+
+</h3>
