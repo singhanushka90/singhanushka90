@@ -39,7 +39,7 @@ I strongly believe in **learning by building**. Every project on my GitHub repre
 
 🔹 Machine Learning Projects
 
-🔹 Flask & FastAPI Backend Development
+🔹 FastAPI Backend Development
 
 🔹 LLM Applications
 
