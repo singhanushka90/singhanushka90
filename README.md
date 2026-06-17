@@ -1,215 +1,262 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
 <h3 align="center">
-🤖 Aspiring AI Engineer | Machine Learning | Generative AI | FastAPI | React Developer
+AI & Data Science Enthusiast | Python Developer | Machine Learning Learner | Open Source Contributor
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Building+AI+Applications;Machine+Learning+%7C+FastAPI+%7C+React;Learning+LLMs+%7C+RAG+%7C+AI+Agents;Future+AI+Engineer+🚀" />
+🚀 Building AI solutions that solve real-world problems.
 </p>
 
 ---
 
-<p align="center">
-<img width="300" src="YOUR_CHIBI_IMAGE_LINK">
-</p>
+# 👩‍💻 About Me
 
-# 🌸 About Me
+Hello! I'm **Anushka Singh**, a B.Tech Computer Science student specializing in **Artificial Intelligence & Data Science**.
 
-🎓 **B.Tech CSE (AI & Data Science)**
+I enjoy transforming ideas into practical AI applications and continuously improving my software engineering skills through real-world projects, hackathons, internships, and open-source contributions.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI.
+Currently, I am focused on becoming an **AI Engineer**, with expertise in:
 
-💜 I enjoy building AI applications that solve real-world problems.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Chatbots
+- Data Science
+- Backend Development
 
-🌱 **Currently Learning**
-
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 💬 Large Language Models (LLMs)
-- 📚 LangChain
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ⚛️ React
-- 🐳 Docker
-- ☁️ AWS
-
-🎯 **Career Goal**
-
-Become a Software Engineer specializing in Artificial Intelligence and build production-ready AI applications used by millions of people.
+I strongly believe in **learning by building**. Every project on my GitHub represents something new I wanted to understand deeply.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Currently Working On
 
-<p align="center">
+🔹 AI Chatbots using LangChain & RAG
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,fastapi,flask,mongodb,mysql,git,github,vscode,docker,aws"/>
+🔹 Machine Learning Projects
 
-</p>
+🔹 Flask & FastAPI Backend Development
 
-### 🤖 AI / Machine Learning
+🔹 LLM Applications
 
-<p align="center">
+🔹 Docker & Cloud Deployment
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+🔹 Data Structures & Algorithms in Python
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge"/>
-
-</p>
+🔹 Open Source Contributions
 
 ---
 
-# 🚀 Featured AI Projects
+# 🎯 Career Goal
 
-🤖 **RAG Chatbot using LangChain + FastAPI**
+My goal is to become an **AI Engineer** capable of building production-ready AI systems that create real-world impact.
 
-📄 **PDF Question Answering Chatbot**
+I'm especially interested in:
 
-💼 **Employee Burnout Prediction**
-
-❤️ **Heart Disease Prediction**
-
-🌍 **Language Detection API**
-
-🎵 **Music Playlist Web App**
-
-🏏 **IPL Win Probability Predictor**
+- LLM Applications
+- AI Agents
+- Computer Vision
+- NLP
+- Generative AI
+- MLOps
+- Cloud AI Deployment
 
 ---
 
-# 📚 Learning Roadmap
+# 🛠 Tech Stack
 
-```text
-Python
-   │
-   ▼
+## Programming Languages
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+---
+
+## AI / Machine Learning
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Hugging Face
+- LangChain
+- ChromaDB
+- BM25 Retrieval
+- OpenAI APIs
+- Groq APIs
+
+---
+
+## Backend
+
+- Flask
+- FastAPI
+- REST APIs
+
+---
+
+## Database
+
+- MongoDB
+- SQLite
+
+---
+
+## Cloud & DevOps
+
+- Docker
+- Git
+- GitHub
+- AWS (Learning)
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+
+- Deep Learning
+
+- NLP
+
+- LLM Engineering
+
+- RAG Pipelines
+
+- AI Agents
+
+- MLOps
+
+- AWS Cloud
+
+- Kubernetes
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 AI Chatbot
+
+LLM-powered chatbot using LangChain, ChromaDB, BM25 Retrieval and Groq API.
+
+---
+
+### ❤️ Heart Disease Prediction
+
+Machine Learning model for healthcare prediction.
+
+---
+
+### 🌦 Weather Application
+
+Real-time weather application using external APIs.
+
+---
+
+### 📖 Dictionary Application
+
+Interactive Dictionary App using public APIs.
+
+---
+
+### 🎵 Music Playlist App
+
+Flask-based music management application with modern UI.
+
+---
+
+### 🐾 Zooland
+
+Animal information system built using Flask and Object-Oriented Programming.
+
+---
+
+### 🌱 GreenWise
+
+AI-powered Sustainable Lifestyle & Energy Advisor built for Hackathon.
+
+---
+
+# 🏆 Certifications
+
+✔ Tata Virtual Internship
+
+✔ Generative AI
+
+✔ Data Visualization
+
+✔ Python
+
+✔ Data Structures & Algorithms
+
+✔ Deloitte Cyber Job Simulation
+
+---
+
+# 💡 Interests
+
+Artificial Intelligence
+
 Machine Learning
-   │
-   ▼
+
 Deep Learning
-   │
-   ▼
+
 Natural Language Processing
-   │
-   ▼
-Large Language Models
-   │
-   ▼
-LangChain
-   │
-   ▼
-Retrieval-Augmented Generation
-   │
-   ▼
-AI Agents
-   │
-   ▼
-Cloud Deployment (AWS)
-```
+
+Generative AI
+
+Cloud Computing
+
+Backend Development
+
+Open Source
+
+Problem Solving
+
+Hackathons
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Goals
 
-<p align="center">
+✔ Build impactful AI Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhanushka90&show_icons=true&theme=tokyonight&hide_border=true"/>
+✔ Contribute to Open Source
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanushka90&layout=compact&theme=tokyonight&hide_border=true"/>
+✔ Write Clean Code
 
-</p>
+✔ Learn System Design
 
----
+✔ Become Industry Ready
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=singhanushka90&theme=tokyonight&hide_border=true"/>
-
-</p>
+✔ Collaborate with Developers Worldwide
 
 ---
 
-# 📈 Contribution Graph
+# 🤝 Let's Connect
 
-<p align="center">
+💼 LinkedIn:
+https://www.linkedin.com/in/anushka-singh-5b6874353
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhanushka90&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singhanushka90&theme=algolia&no-frame=true&column=4"/>
-
-</p>
+💻 GitHub:
+https://github.com/singhanushka90
 
 ---
 
-# 📜 Certifications
+# 💬 Favorite Quote
 
-🏅 Tata Virtual Internship
-
-🏅 Generative AI
-
-🏅 FastAPI Development
-
-🏅 Machine Learning
+> "Dream big. Stay consistent. Build things that matter."
 
 ---
 
-# 🎨 Hobbies
-
-🎨 Painting
-
-🎵 Listening to Music
-
-🚗 Road Trips
-
-🍳 Cooking
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/singhanushka90">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anushka-singh-5b6874353">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anushkas28940@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-
-💜 *"Learning today, Building the AI of tomorrow."* 💜
-
-</h2>
+⭐ Thank you for visiting my GitHub profile!
+If you like my work, don't forget to ⭐ my repositories.
