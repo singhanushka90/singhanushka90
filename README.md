@@ -156,33 +156,13 @@ Machine Learning model for healthcare prediction.
 
 ---
 
-### 🌦 Weather Application
+### 🌦 Movie Recommendations Prediction 
 
-Real-time weather application using external APIs.
-
----
-
-### 📖 Dictionary Application
-
-Interactive Dictionary App using public APIs.
+Machine learning model for movies prediction using streamlit
 
 ---
 
-### 🎵 Music Playlist App
 
-Flask-based music management application with modern UI.
-
----
-
-### 🐾 Zooland
-
-Animal information system built using Flask and Object-Oriented Programming.
-
----
-
-### 🌱 GreenWise
-
-AI-powered Sustainable Lifestyle & Energy Advisor built for Hackathon.
 
 ---
 
@@ -190,9 +170,7 @@ AI-powered Sustainable Lifestyle & Energy Advisor built for Hackathon.
 
 ✔ Tata Virtual Internship
 
-✔ Generative AI
-
-✔ Data Visualization
+✔ Machine Learning 
 
 ✔ Python
 
