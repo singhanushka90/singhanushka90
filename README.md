@@ -236,5 +236,5 @@ https://github.com/singhanushka90
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thank you for my GitHub profile!
 If you like my work, don't forget to ⭐ my repositories.
