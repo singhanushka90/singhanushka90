@@ -107,7 +107,7 @@ I'm especially interested in:
 ## Database
 
 - MongoDB
-- SQLite
+  
 
 ---
 
