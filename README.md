@@ -115,7 +115,7 @@ Regression project using Scikit-Learn.
 
 ## 🤝 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/anushka-singh-5b6874353
 
 📧 Email: your-email@example.com
 
