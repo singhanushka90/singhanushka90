@@ -12,9 +12,7 @@
 
 🚀 Currently learning:
 - Machine Learning
-- Deep Learning
 - NLP
-- Transformers
 - LLMs
 - RAG (Retrieval-Augmented Generation)
 - LangChain
