@@ -105,8 +105,6 @@ Regression project using Scikit-Learn.
 
 ## 📈 GitHub Stats
 
-⭐ Building AI projects every week
-
 📚 Learning continuously
 
 🚀 Open to internships, hackathons and collaborations
