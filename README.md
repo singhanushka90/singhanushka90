@@ -1,10 +1,12 @@
 # Hi, I'm Anushka Singh 👋
 
-### AI Engineer | Machine Learning | Generative AI | MLOps
+### AI Engineer (Student) | Machine Learning | Generative AI | MLOps
 
-I'm a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about building practical AI systems and solving real-world problems using Machine Learning and Generative AI.
+I build AI and Machine Learning systems focused on solving practical problems — from predictive models and NLP applications to RAG-based systems and ML pipelines.
 
-I enjoy working across the complete AI lifecycle — from data preprocessing and model development to building RAG applications, APIs, and MLOps pipelines.
+My work focuses on understanding the complete AI lifecycle: data preparation, model development, evaluation, experimentation, APIs, retrieval systems, and MLOps.
+
+I'm particularly interested in building AI systems that are not just model demos, but reliable and useful applications.
 
 ---
 
@@ -28,120 +30,161 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 
 ---
 
-## 🧠 About Me
+## What I Build
 
-- 🎓 B.Tech student in Artificial Intelligence & Data Science
-- 🤖 Interested in Machine Learning, Deep Learning & Generative AI
-- 🔎 Exploring LLMs, RAG and Agentic AI
-- ⚙️ Building end-to-end ML & AI applications
-- 📊 Interested in MLOps and production-ready ML systems
-- 💻 Practicing Data Structures & Algorithms in Python
-- 🚀 Focused on becoming a strong AI Engineer
+| Domain | Focus |
+|---|---|
+| Machine Learning | Classification, Regression, Feature Engineering, Model Evaluation |
+| NLP | Text Classification, TF-IDF, Embeddings, Semantic Search |
+| Generative AI | LLM Applications, RAG, Prompt Engineering |
+| Retrieval Systems | Vector Search, Chroma, Qdrant, Hybrid Retrieval |
+| AI Applications | Document Intelligence, AI Assistants, Prediction Systems |
+| MLOps | DVC, MLflow, Experiment Tracking, Model Versioning |
+| Backend | FastAPI, REST APIs, Authentication |
+| Data Science | EDA, Statistical Analysis, Visualization |
+
+---
+
+## 🧠 Areas I'm Exploring
+
+### Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Feature Selection
+- Hyperparameter Optimization
+- Model Evaluation
+- Explainable AI
+
+### Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector Databases
+- Query Rewriting
+- Reranking
+- Conversational AI
+
+### AI Engineering
+- FastAPI
+- LangChain
+- LangGraph
+- REST APIs
+- Authentication
+- AI System Architecture
+
+### MLOps
+- MLflow
+- DVC
+- Model Versioning
+- Experiment Tracking
+- CI/CD
+- Docker
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming & Data Science
+### Languages & Data
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=numpy" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-<img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
+`Python` `SQL` `Pandas` `NumPy`
 
-### 🤖 AI & Machine Learning
+### Machine Learning
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Vector Search
+`Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
 
-### ⚙️ AI Engineering & Backend
+### Generative AI
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
+`LangChain` `LangGraph` `Hugging Face` `LLMs` `RAG`
 
-- FastAPI
-- LangChain
-- LangGraph
-- REST APIs
+### Backend
 
-### 📊 MLOps
+`FastAPI` `REST APIs` `JWT`
 
-- MLflow
-- DVC
-- Docker
-- GitHub Actions
-- CI/CD
-- Model Versioning
-- Experiment Tracking
+### Databases & Retrieval
 
-### 🗄️ Databases & Vector Stores
+`MongoDB` `MongoDB Atlas` `Chroma` `Qdrant` `Pinecone`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
+### MLOps & Engineering
 
-- MongoDB
-- MongoDB Atlas
-- ChromaDB
-- Qdrant
-- Pinecone
-
-### 🧰 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`MLflow` `DVC` `Docker` `Git` `GitHub Actions`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🛡️ Spam Detection MLOps
 
-An end-to-end machine learning project for spam detection with data versioning, experiment tracking, model evaluation and an MLOps pipeline.
+End-to-end machine learning project for spam detection with data versioning, experiment tracking, model evaluation and an MLOps workflow.
 
-**Tech:** Python · Scikit-learn · DVC · MLflow
+**Focus:** Machine Learning · DVC · MLflow · Scikit-learn
 
 ---
 
 ### ❤️ Heart Disease Prediction
 
-A machine learning project for predicting cardiovascular disease risk with data preprocessing, feature engineering, model comparison and evaluation.
+Machine learning system for predicting cardiovascular disease using data preprocessing, feature engineering, model comparison and evaluation.
 
-**Tech:** Python · Pandas · Scikit-learn · XGBoost
+**Focus:** EDA · Feature Engineering · Classification · Model Evaluation
 
 ---
 
 ### 💰 Loan Default Risk Prediction
 
-A predictive machine learning system designed to identify customers who may have a higher risk of loan default.
+Machine learning system for predicting loan default risk using large-scale financial data, feature selection, model evaluation and explainability.
 
-**Tech:** Python · Scikit-learn · XGBoost · Feature Engineering · SHAP · MLflow
+**Focus:** XGBoost · Feature Engineering · SHAP · MLflow
 
 ---
+
+### 📄 DocuChat AI
+
+Document-based conversational AI system that uses retrieval and language models to answer questions from uploaded documents.
+
+**Focus:** RAG · Embeddings · Vector Search · LangChain · FastAPI
+
+---
+
+## 🔨 Currently Building
 
 ### 🧠 KnowledgeOS
 
-An AI-powered knowledge platform using Retrieval-Augmented Generation, hybrid search, reranking, citations, conversation memory and role-based access control.
+An AI-powered knowledge platform currently under development.
 
-**Tech:** FastAPI · LangChain · LangGraph · MongoDB · Vector Databases
+The system is being designed around:
+
+- Retrieval-Augmented Generation
+- Hybrid Search
+- Query Rewriting
+- Reranking
+- Citations
+- Conversation Memory
+- Role-Based Access Control
+- FastAPI backend
+- MongoDB
+- Vector Search
+
+> 🚧 Currently under active development.
 
 ---
 
-### 📚 DocuChat AI
+## 💡 Engineering Philosophy
 
-A document-based conversational AI application that allows users to interact with their documents using Retrieval-Augmented Generation.
+Building an AI system is more than training a model or connecting an LLM to an interface.
 
-**Tech:** Python · FastAPI · LangChain · Embeddings · ChromaDB
+A useful AI application requires:
+
+- Reliable data pipelines
+- Meaningful evaluation
+- Good retrieval
+- Robust APIs
+- Appropriate model selection
+- Experiment tracking
+- Reproducibility
+- Security
+- Continuous improvement
+
+I try to understand the complete system rather than focusing on only one component.
 
 ---
 
@@ -151,7 +194,7 @@ A document-based conversational AI application that allows users to interact wit
 - Deep Learning
 - Transformers
 - Large Language Models
-- RAG Systems
+- RAG & Advanced Retrieval
 - Agentic AI
 - LangChain & LangGraph
 - MLOps
@@ -160,33 +203,35 @@ A document-based conversational AI application that allows users to interact wit
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🎯 Long-Term Goal
 
-My goal is to become an **AI Engineer** capable of designing, developing and deploying reliable AI systems — from traditional Machine Learning models to modern LLM-powered applications.
+Build reliable AI products that combine **Machine Learning, Generative AI and strong software engineering** to solve real-world problems.
+
+I'm especially interested in:
+
+- AI Engineering
+- Machine Learning Systems
+- Generative AI
+- RAG & Retrieval Systems
+- Agentic AI
+- MLOps
+- AI Product Development
 
 ---
 
-## ⚡ My AI Engineering Journey
+## ⚡ My Approach
 
 ```text
-        ┌───────────────┐
-        │    LEARN      │
-        │   AI & ML     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        │ AI / ML Apps  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    DEPLOY     │
-        │ APIs & Models │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    IMPROVE    │
-        │ MLOps & Scale │
-        └───────┬───────┘
-                ↓
-        🔄 Keep Learning
+        Learn
+          ↓
+      Understand
+          ↓
+        Build
+          ↓
+       Evaluate
+          ↓
+       Improve
+          ↓
+        Deploy
+          ↓
+      Iterate 🔄
