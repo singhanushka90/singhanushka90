@@ -8,15 +8,35 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/anushka-singh-5b6874353/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/singhanushka90">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:anushkas28940@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ## 🧠 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🎓 B.Tech student in Artificial Intelligence & Data Science
 - 🤖 Interested in Machine Learning, Deep Learning & Generative AI
 - 🔎 Exploring LLMs, RAG and Agentic AI
 - ⚙️ Building end-to-end ML & AI applications
 - 📊 Interested in MLOps and production-ready ML systems
 - 💻 Practicing Data Structures & Algorithms in Python
-- 🚀 Currently focused on becoming a strong AI Engineer
+- 🚀 Focused on becoming a strong AI Engineer
 
 ---
 
@@ -25,10 +45,10 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 ### 👩‍💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -45,7 +65,7 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 ### ⚙️ AI Engineering & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
 - FastAPI
@@ -53,7 +73,7 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 - LangGraph
 - REST APIs
 
-### 📊 MLOps & Deployment
+### 📊 MLOps
 
 - MLflow
 - DVC
@@ -66,7 +86,7 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 ### 🗄️ Databases & Vector Stores
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
 - MongoDB
@@ -78,7 +98,7 @@ I enjoy working across the complete AI lifecycle — from data preprocessing and
 ### 🧰 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -146,20 +166,27 @@ My goal is to become an **AI Engineer** capable of designing, developing and dep
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ My AI Engineering Journey
 
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/singhanushka90">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+```text
+        ┌───────────────┐
+        │    LEARN      │
+        │   AI & ML     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BUILD     │
+        │ AI / ML Apps  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    DEPLOY     │
+        │ APIs & Models │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    IMPROVE    │
+        │ MLOps & Scale │
+        └───────┬───────┘
+                ↓
+        🔄 Keep Learning
