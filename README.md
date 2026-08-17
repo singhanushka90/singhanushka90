@@ -1,123 +1,165 @@
-<h1 align="center">Hi 👋, I'm Anushka Singh</h1>
+# Hi, I'm Anushka Singh 👋
 
-<h3 align="center">AI & Data Science Student | Python Developer | Machine Learning Enthusiast | Future AI Engineer</h3>
+### AI Engineer | Machine Learning | Generative AI | MLOps
+
+I'm a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about building practical AI systems and solving real-world problems using Machine Learning and Generative AI.
+
+I enjoy working across the complete AI lifecycle — from data preprocessing and model development to building RAG applications, APIs, and MLOps pipelines.
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-🎓 B.Tech CSE (AI & Data Science) Student
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Generative AI.
-
-🚀 Currently learning:
-- Machine Learning
-- NLP
-- LLMs
-- RAG (Retrieval-Augmented Generation)
-- LangChain
-- FastAPI
-- Docker
-- AWS
-
-🎯 Goal: Become an AI Engineer and build production-ready AI applications.
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 Interested in Machine Learning, Deep Learning & Generative AI
+- 🔎 Exploring LLMs, RAG and Agentic AI
+- ⚙️ Building end-to-end ML & AI applications
+- 📊 Interested in MLOps and production-ready ML systems
+- 💻 Practicing Data Structures & Algorithms in Python
+- 🚀 Currently focused on becoming a strong AI Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- C
-- JavaScript
-- HTML
-- CSS
-- SQL
+### 👩‍💻 Programming & Data Science
 
-### AI / Machine Learning
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Hugging Face
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
-### Generative AI
-- LangChain
-- RAG
-- Vector Databases
-- Prompt Engineering
-- LLM Applications
+### 🤖 AI & Machine Learning
 
-### Backend
-- Flask
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Search
+
+### ⚙️ AI Engineering & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
 - FastAPI
+- LangChain
+- LangGraph
+- REST APIs
 
-### Databases
-- SQLite
-- MongoDB
+### 📊 MLOps & Deployment
 
-### Tools
-- Git
-- GitHub
+- MLflow
+- DVC
 - Docker
-- AWS
-- VS Code
+- GitHub Actions
+- CI/CD
+- Model Versioning
+- Experiment Tracking
+
+### 🗄️ Databases & Vector Stores
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+- MongoDB
+- MongoDB Atlas
+- ChromaDB
+- Qdrant
+- Pinecone
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Medical RAG Chatbot
-AI-powered chatbot using LangChain, Vector Database and Retrieval-Augmented Generation.
+### 🛡️ Spam Detection MLOps
 
-### 🧠 Hybrid AI Chatbot
-Context-aware chatbot with memory and document retrieval.
+An end-to-end machine learning project for spam detection with data versioning, experiment tracking, model evaluation and an MLOps pipeline.
 
-### ❤️ Heart Disease Prediction
-Machine Learning project for predicting heart disease.
-
-### 📰 Fake News Detection
-NLP project for detecting fake and real news.
-
-### 🏏 IPL Win Probability Predictor
-Machine Learning + FastAPI project for live match prediction.
-
-### ⚡ Household Power Consumption Prediction
-Regression project using Scikit-Learn.
+**Tech:** Python · Scikit-learn · DVC · MLflow
 
 ---
 
-## 🌱 Currently Learning
+### ❤️ Heart Disease Prediction
+
+A machine learning project for predicting cardiovascular disease risk with data preprocessing, feature engineering, model comparison and evaluation.
+
+**Tech:** Python · Pandas · Scikit-learn · XGBoost
+
+---
+
+### 💰 Loan Default Risk Prediction
+
+A predictive machine learning system designed to identify customers who may have a higher risk of loan default.
+
+**Tech:** Python · Scikit-learn · XGBoost · Feature Engineering · SHAP · MLflow
+
+---
+
+### 🧠 KnowledgeOS
+
+An AI-powered knowledge platform using Retrieval-Augmented Generation, hybrid search, reranking, citations, conversation memory and role-based access control.
+
+**Tech:** FastAPI · LangChain · LangGraph · MongoDB · Vector Databases
+
+---
+
+### 📚 DocuChat AI
+
+A document-based conversational AI application that allows users to interact with their documents using Retrieval-Augmented Generation.
+
+**Tech:** Python · FastAPI · LangChain · Embeddings · ChromaDB
+
+---
+
+## 📚 Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning
-- LLM Engineering
+- Transformers
+- Large Language Models
+- RAG Systems
 - Agentic AI
-- System Design
-- Docker
-- Cloud Deployment
+- LangChain & LangGraph
+- MLOps
+- AI System Design
+- Data Structures & Algorithms
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 What I'm Working Towards
 
-📚 Learning continuously
-
-🚀 Open to internships, hackathons and collaborations
+My goal is to become an **AI Engineer** capable of designing, developing and deploying reliable AI systems — from traditional Machine Learning models to modern LLM-powered applications.
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/anushka-singh-5b6874353
+<p align="left">
 
-📧 Email: anushkas28940@gmail.com
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub: https://github.com/singhanushka90
+<a href="https://github.com/singhanushka90">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-⭐ Thanks for visiting my profile!
-Let's build amazing AI projects together.
+</p>
