@@ -1,23 +1,48 @@
+# 👋 Hi, I'm Anushka Singh
 
-### Is README mein ek important difference hai
+### AI Engineer in the Making | Machine Learning | MLOps | Generative AI | Backend Engineering
 
-Tumhare **repository README** mein likha hota hai:
+I'm a **B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent, scalable, and production-oriented systems.
 
-> “Ye project kya karta hai?”
+I enjoy going beyond just training a machine learning model. I want to understand the complete journey of an AI system — from **data and model development to APIs, deployment, system design, and production**.
 
-Lekin **profile README** mein visitor ko ye samajhna chahiye:
+Currently, I'm focused on strengthening my skills in:
 
-> **“Ye developer kaun hai?”**  
-> **“Iski direction kya hai?”**  
-> **“Isne kya build kiya hai?”**  
-> **“Isko kaun-kaun si technologies aati hain?”**  
-> **“Ye abhi kya seekh raha hai?”**  
-> **“Iska engineering mindset kya hai?”**
+- 🤖 Machine Learning
+- ⚙️ MLOps
+- 🧠 Generative AI & LLM Applications
+- 🔧 Backend Engineering
+- 🗄️ Databases
+- 🏗️ AI System Design
+- 📊 Data Structures & Algorithms
 
-Tumhare case mein profile ka central message ye hona chahiye:
+My long-term goal is to become an **AI Engineer** capable of taking an AI/ML idea from:
 
-**B.Tech AI & DS → ML → MLOps → GenAI → Backend → System Design → AI Engineer**
+**Problem → Data → Model → API → Deployment → Scale → Monitoring**
 
-Aur screenshot mein jo repositories dikh rahi hain, unko bhi maine intentionally include kiya hai, taaki profile aur README **match** karein. Jo technologies/areas abhi roadmap mein hain, unko “currently exploring/planned” ke form mein rakha hai — fake experience claim nahi kiya.
+---
 
-**Ek aur cheez:** `YOUR_USERNAME` aur email/LinkedIn ko apne actual details se replace karna hoga. बाकी README directly profile repository mein use kar sakti ho.
+# 🚀 What I'm Currently Doing
+
+I'm actively building projects and learning the engineering concepts required to develop real-world AI systems.
+
+My current learning direction is:
+
+```text
+Python
+   ↓
+Data & Machine Learning
+   ↓
+ML Pipelines
+   ↓
+MLOps
+   ↓
+Backend Engineering
+   ↓
+Generative AI
+   ↓
+AI Agents & RAG
+   ↓
+System Design
+   ↓
+Production AI Systems
