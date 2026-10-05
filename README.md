@@ -50,8 +50,6 @@ An AI-powered healthcare backend project focused on patient management and medic
 - Backend Architecture
 - Patient Management
 - Medical Documents
-- Database Design
-- Secure Backend Systems
 
 ---
 
@@ -90,13 +88,9 @@ A machine learning project focused on predicting heart disease risk using releva
 - Classification
 - Data Preprocessing
 - Feature Engineering
-- Model Evaluation
 
----
 
-## 🎬 Movie Recommendation System
 
-A recommendation system project exploring personalized movie recommendations using user/item information and similarity-based techniques.
 
 ### Focus Areas
 
@@ -107,9 +101,7 @@ A recommendation system project exploring personalized movie recommendations usi
 
 ---
 
-## 💳 Loan Default Risk Prediction
-
-A machine learning project focused on predicting loan default risk.
+#
 
 ### Focus Areas
 
@@ -141,18 +133,13 @@ The goal is to understand not only **how to build a model**, but also how to bui
 - Pandas
 - Statistics
 - Machine Learning
-- Data Structures & Algorithms
 
-↓
 
 ## 2️⃣ Backend Engineering
 
 - FastAPI
 - REST APIs
 - PostgreSQL
-- MongoDB
-- Authentication
-- Database Design
 - API Architecture
 
 ↓
@@ -163,9 +150,6 @@ The goal is to understand not only **how to build a model**, but also how to bui
 - MLflow
 - DVC
 - Docker
-- CI/CD
-- Model Serving
-- Monitoring
 
 ↓
 
@@ -179,9 +163,6 @@ The goal is to understand not only **how to build a model**, but also how to bui
 - Hybrid Retrieval
 - Reranking
 - LangChain
-- LangGraph
-- Agents
-- Tool Calling
 
 ↓
 
@@ -222,9 +203,6 @@ I focus on understanding:
 🔥 Machine Learning  
 🔥 MLOps  
 🔥 Generative AI  
-🔥 Backend Engineering  
-🔥 AI System Design  
-🔥 DSA
 
 ---
 
