@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anushka Singh
 
-### AI Engineer in the Making | Machine Learning | MLOps | Generative AI | Backend Engineering
+### AI Engineer in the Making | Machine Learning | MLOps 
 
 I'm a **B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent, scalable, and production-oriented systems.
 
