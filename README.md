@@ -113,7 +113,7 @@ I use GitHub to document my learning journey, build projects, experiment with ne
 # 📫 Connect With Me
 
 - 💻 GitHub: [Anushka Singh](https://github.com/singhanushka90)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in//)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/in/anushka-singh-5b6874353/)
 - 📧 Email: anushkas28940@gmail.com
 
 ---
