@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AS
 
-### AI Engineer in the Making | Machine Learning
+### AI Engineer 
 
 I'm a **B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent, scalable, and production-oriented systems.
 
