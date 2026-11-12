@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anushka Singh
+# 👋 Hi, I'm Anushka S
 
 ### AI Engineer in the Making | Machine Learning
 
