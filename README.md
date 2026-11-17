@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AS
+# 👋 Hi, I'm Anushka S
 
 ### AI Engineer 
 
