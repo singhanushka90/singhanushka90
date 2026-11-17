@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anushka S
+# 👋 Hi, I'm Anushka Singh
 
 ### AI Engineer 
 
